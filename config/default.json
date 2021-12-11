@@ -44,5 +44,5 @@
       }
     }
   },
-  "mongodb": "mongodb://localhost:27017/sample_feathers_app_typescript"
+  "mongodb": "MONGO_DB_URI"
 }
